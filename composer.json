@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Altima_BetterCreditCardForm",
+    "type": "magento-module",
+    "license": "-The-MIT-License-(MIT)",
+    "homepage": "",
+    "description": "Better credit card form extension for Magento eCommerce - more user friendly way to enter credit card information on checkout.",
+    "authors": [
+    {
+        "name": "Andrey",
+        "email": "andrey.stepin@altima.com.ua"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
